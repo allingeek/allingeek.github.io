@@ -10,6 +10,14 @@
 
   
     ,{
+      "title"			: "Docker in Action",
+      "link"			: "http://blog.allingeek.com/projects/docker-in-action/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Override Author Byline Test Post",
       "link"			: "http://blog.allingeek.com/articles/author-override/",
       "excerpt"		: "An article to test overriding the default site author."
