@@ -1,83 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://blog.allingeek.com//blog/hello-world/</loc>
+    <loc>http://blog.allingeek.com/blog/hello-world/</loc>
     <lastmod>2014-08-08T19:39:55+00:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://blog.allingeek.com//articles/author-override/</loc>
+    <loc>http://blog.allingeek.com/articles/author-override/</loc>
     <lastmod>2014-06-19T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://blog.allingeek.com//articles/code-highlighting-post/</loc>
+    <loc>http://blog.allingeek.com/articles/code-highlighting-post/</loc>
     <lastmod>2013-08-16T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://blog.allingeek.com//articles/sample-link-post/</loc>
+    <loc>http://blog.allingeek.com/articles/sample-link-post/</loc>
     <lastmod>2013-08-12T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://blog.allingeek.com//articles/video-post/</loc>
+    <loc>http://blog.allingeek.com/articles/video-post/</loc>
     <lastmod>2013-06-25T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://blog.allingeek.com//articles/readability-feature-post/</loc>
+    <loc>http://blog.allingeek.com/articles/readability-feature-post/</loc>
     <lastmod>2013-05-23T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://blog.allingeek.com//articles/sample-post-images/</loc>
+    <loc>http://blog.allingeek.com/articles/sample-post-images/</loc>
     <lastmod>2013-05-22T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://blog.allingeek.com//articles/readability-post/</loc>
+    <loc>http://blog.allingeek.com/articles/readability-post/</loc>
     <lastmod>2012-05-22T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://blog.allingeek.com//articles/sample-post/</loc>
+    <loc>http://blog.allingeek.com/articles/sample-post/</loc>
     <lastmod>2011-03-10T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://blog.allingeek.com//</loc>
-    <lastmod>2015-02-10T22:37:39+00:00</lastmod>
+    <loc>http://blog.allingeek.com/</loc>
+    <lastmod>2015-02-10T22:58:05+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://blog.allingeek.com//articles/</loc>
-    <lastmod>2015-02-10T22:37:39+00:00</lastmod>
+    <loc>http://blog.allingeek.com/articles/</loc>
+    <lastmod>2015-02-10T22:58:05+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://blog.allingeek.com//blog/</loc>
-    <lastmod>2015-02-10T22:37:39+00:00</lastmod>
+    <loc>http://blog.allingeek.com/blog/</loc>
+    <lastmod>2015-02-10T22:58:05+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://blog.allingeek.com//tags/</loc>
-    <lastmod>2015-02-10T22:37:39+00:00</lastmod>
+    <loc>http://blog.allingeek.com/tags/</loc>
+    <lastmod>2015-02-10T22:58:05+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://blog.allingeek.com//about/</loc>
-    <lastmod>2015-02-10T22:37:39+00:00</lastmod>
+    <loc>http://blog.allingeek.com/about/</loc>
+    <lastmod>2015-02-10T22:58:05+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://blog.allingeek.com//theme-setup/</loc>
-    <lastmod>2015-02-10T22:37:39+00:00</lastmod>
+    <loc>http://blog.allingeek.com/theme-setup/</loc>
+    <lastmod>2015-02-10T22:58:05+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
