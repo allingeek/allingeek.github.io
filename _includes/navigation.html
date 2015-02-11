@@ -3,7 +3,7 @@
 	    <ul>
       {% for link in site.data.navigation %}
 		    {% if link.url contains 'mailto' %}
-		    <li><a href="{{ link.url }}" class="btn">{{ link.title }}</a></li>
+		    <li><a href="{{ link.url }}" style="background-color: #33c;">{{ link.title }}</a></li>
 
 		    {% else if link.url contains 'http' %}
 		        {% assign domain = '' %}
