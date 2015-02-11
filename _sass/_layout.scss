@@ -55,7 +55,7 @@ body {
 			background-color: lighten($black, 10);
 		}
 	}
-	a .mail {
+	a.mail {
 		background-color: $mail-color;
 		&:hover {
 			background-color: lighten($mail-color, 10);
