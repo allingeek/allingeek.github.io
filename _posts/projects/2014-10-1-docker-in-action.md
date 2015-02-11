@@ -5,11 +5,6 @@ excerpt: "Just about everything you'll need to style in the theme: headings, par
 modified: 2014-10-1
 categories: projects
 tags: [book, long-term, docker]
-image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
-comments: true
 share: true
 link: http://manning.com/nickoloff
 ---
