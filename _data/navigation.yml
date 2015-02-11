@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: Articles 
+  url: /articles/
+
+- title: Projects 
+  url: /projects/
+
+- title: On Medium
+  url: https://medium.com/@allingeek
+
+- title: Historical Blog
+  url: /blog/
+
+#- title: Search
+#  url: /search/
+
+- title: "[ Docker in Action ]"
+  url: http://manning.com/nickoloff
+
+- title: "[ Hire Me ]"
+  url: "mailto:jeff+hire%40allingeek.com?subject=%5BAbout%20Consulting%5D"
