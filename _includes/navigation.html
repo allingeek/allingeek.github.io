@@ -4,13 +4,14 @@
       {% for link in site.data.navigation %}
 		    {% if link.url contains 'mailto' %}
 		    <li><a href="{{ link.url }}" class="mail">{{ link.title }}</a></li>
-
-		    {% else if link.url contains 'http' %}
-		        {% assign domain = '' %}
+		    {% else %} 
+		    	{% if link.url contains 'http' %}
+		            {% assign domain = '' %}
 		    <li><a href="{{ domain }}{{ link.url }}" target="_blank">{{ link.title }}</a></li>
-		    {% else %}
-		        {% assign domain = site.url %}
+		        {% else %}
+		            {% assign domain = site.url %}
 		    <li><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+			{% endif %}
 		    {% endif %}
 		  {% endfor %}
 	    </ul>
