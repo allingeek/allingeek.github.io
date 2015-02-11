@@ -55,6 +55,12 @@ body {
 			background-color: lighten($black, 10);
 		}
 	}
+	a .mail {
+		background-color: $mail-color;
+		&:hover {
+			background-color: lighten($mail-color, 10);
+		}
+	}
 }
 // Responsive nav toggle stuff
 #site-nav {
