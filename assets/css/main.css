@@ -2271,6 +2271,11 @@
 				vertical-align: middle;
 			}
 
+
+				ul.actions li.bb {
+					margin-bottom: 1em;
+				}
+
 				ul.actions li:last-child {
 					padding-right: 0;
 				}
